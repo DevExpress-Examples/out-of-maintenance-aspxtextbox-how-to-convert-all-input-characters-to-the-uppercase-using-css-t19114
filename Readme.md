@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxTextBox - How to convert all input characters to the uppercase using CSS
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t191141/)**
+<!-- run online end -->
 
 
 <p>There is a <a href="http://www.w3schools.com/cssref/pr_text_text-transform.asp">text-transform</a> property in CSS that allows showing all characters to input in uppercase. It is possible to apply this property to ASPxTextBox by creating the following rule:</p>
